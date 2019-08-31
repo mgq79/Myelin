@@ -13,7 +13,7 @@ The formal definition of the static and dynamic semantics of the language.
 The implementation of the parser of the language.
 
 ## Interpreter
-The implementation of an iterpreter for the language.
+The implementation of an interpreter for the language.
 
 ## Compiler
 The implementation of a compiler for the language.
